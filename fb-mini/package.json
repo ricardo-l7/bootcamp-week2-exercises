@@ -12,9 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "casual": "^1.6.2",
-    "dotenv": "^8.2.0",
-    "knex": "^0.21.1",
-    "pg": "^8.0.3"
+    "dotenv": "^8.6.0",
+    "knex": "^0.21.21",
+    "pg": "^8.7.1"
   },
   "devDependencies": {
     "eslint": "^6.7.0",
